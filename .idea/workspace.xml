@@ -33,12 +33,15 @@
       <change beforePath="$PROJECT_DIR$/../../AVTO4/Avto4/gradlew" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../AVTO4/Avto4/gradlew.bat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Avto5Pattern1/Pattern1/.appveyor.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data/pg_stat_tmp/db_0.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/data/pg_stat_tmp/db_0.stat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data/pg_stat_tmp/db_13465.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/data/pg_stat_tmp/db_13465.stat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data/pg_stat_tmp/db_16384.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/data/pg_stat_tmp/db_16384.stat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data/pg_stat_tmp/global.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/data/pg_stat_tmp/global.stat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data/base/16384/16387" beforeDir="false" afterPath="$PROJECT_DIR$/data/data/base/16384/16387" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data/global/pg_control" beforeDir="false" afterPath="$PROJECT_DIR$/data/data/global/pg_control" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data/pg_stat_tmp/db_0.stat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data/pg_stat_tmp/db_13465.stat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data/pg_stat_tmp/db_16384.stat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data/pg_stat_tmp/global.stat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data/pg_wal/000000010000000000000001" beforeDir="false" afterPath="$PROJECT_DIR$/data/data/pg_wal/000000010000000000000001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data/postmaster.pid" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Homework2.4.BDD/BDD2.4/.appveyor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2.4.BDD/BDD2.4/.appveyor.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Pattern/Artifacts/Avto5Pattern1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Pattern/Artifacts/Avto5Pattern1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
