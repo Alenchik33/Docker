@@ -19,6 +19,8 @@ build/
 *.iml
 *.ipr
 out/
+.idea/
+Docker.iml
 
 ### NetBeans ###
 /nbproject/private/
